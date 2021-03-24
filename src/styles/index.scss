@@ -2,17 +2,19 @@
 
 div{
    background: black;   
+   font-size: 50px;  
+   display: inline;
    margin: auto;
    text-align: center;
-   color: white;
-   font-size: 90px; 
+   color: grey;
    padding: 0;
+   
  
 }
 
 .contador{
     border: 2px solid gray;
-    border-radius: 25px;
-    width: 220px;
-    height: 155px;
+    width: 100px;
+    height: 150px;
+
 }
